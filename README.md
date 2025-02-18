@@ -5,7 +5,7 @@ Bem-vindo ao repositório da Doceria! Aqui você encontrará o código-fonte do 
 Acesse o Site
 Visite nossa doceria online e descubra o sabor da felicidade!
 
-Doceria - Visite nosso site
+Doceria - [Visite nosso site](https://aamandapettersen.github.io/doceria/)
 
 Sobre a Doceria
 Nossa doceria é um lugar onde a tradição se encontra com a inovação em cada receita. Todos os nossos doces são feitos com muito carinho e ingredientes de qualidade para garantir uma experiência única e memorável para nossos clientes. 💖
